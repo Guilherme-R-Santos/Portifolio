@@ -1,0 +1,54 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.header .photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.info p {
+    margin: .5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1rem;
+}
+
+.info p::before {
+    content: "";
+    width: 1rem;
+    height: 1rem;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+}
+
+.info .job::before {
+    background-image: url("/assets/img/icons/profile1.svg");
+}
+
+.info .location::before {
+    background-image: url("/assets/img/icons/marcador-de-mapa.svg");
+}
+
+.info .phone::before {
+    background-image: url("/assets/img/icons//whatsapp.svg");
+}
+
+.info .email::before {
+    background-image: url("/assets/img/icons/email.svg");
+}
+

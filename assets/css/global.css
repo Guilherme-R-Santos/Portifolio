@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: "orbitron", "sans-serif";
+}
+
+body {
+    background-color: #000000;
+    background-blend-mode:color-burn;
+    color: #f5f5f5;
+}
+
+.main {
+    padding: 1rem;
+    margin: 1rem;
+    border: #fff 1px solid;
+    border-radius: 1rem;
+}
+
+
