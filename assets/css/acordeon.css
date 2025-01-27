@@ -43,12 +43,18 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url("/assets/img/icons/caret-down-solid.svg");
+    transition: .25s;
 }
 
 .acordeon .content {
-    display: none;
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: 0.25s ease-in-out opacity;
 }
 
 .acordeon.open .content {
     display: inline-block;
+    height: auto;
+    opacity: 1;
 }
