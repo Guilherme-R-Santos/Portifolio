@@ -4,11 +4,14 @@
 }
 
 html, body {
-    height: 100%; 
     margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
 }
 
 body {
+    background: #000000; /* Fallback color */
     background: linear-gradient(to bottom, #000000, #001f3f, #001f3f, #000000);
     background-size: cover; 
     background-repeat: no-repeat; 
@@ -27,4 +30,14 @@ body {
         max-width: 1280px;
         margin: 1rem auto;
     }
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: underline;
 }
