@@ -47,31 +47,36 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "MatchGame",
+        "url": "https://github.com/Guilherme-R-Santos/MatchGame",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Pokedex",
+        "url": "https://github.com/Guilherme-R-Santos/Pokedex",
+        "github": true
+      },
+      {
+        "name": "PetLife",
+        "url": "https://github.com/Guilherme-R-Santos/PetLife",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Estagiário de desenvolvimento de software | Abra Casa e Abra Cadabra Oficial",
+        "period": "ago de 2024 - O momento",
+        "description": "Desenvolvimento FullStack JavaScript, HTML5, CSS3, Node.js, desenvolvimento de API's, sustentação, implementação de sistemas, atendimento N3, Postgree, MongoDB, Scrum, DevOps"
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Assistente de sistemas | Instituto Dara",
+        "period": "mar de 2024 - ago 2024",
+        "description": "Análise, gestão e desenvolvimento de sistemas, especificação e levantamento de requisitos, elaboração da documentação do sistema, gestão de usuários, configuração de ambiente microsoft azure para desenvolvimento e sustentação de software, teste de software, gestão de projetos, gestão de TI, gestão de acessos e banco de dados, consulta e extração de dados via SQL, administração de ambiente windows corporate através de windows server e suporte e atendimento à usuários, construção de relatórios, planilhas e dashboards, desenvolvimento de ferramentas em .NET. e uso de metodologias ágeis (scrum e Kanban)."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Estágio em análise de sistemas | Instituto Dara",
+        "period": "jul de 2023 - mar de 2024",
+        "description": "Gestão e mapeamento de processos, análise, gestão e desenvolvimento de sistemas, suporte ao usuário, gestão de documentação, mapeamento de sistemas, extração, manipulação, e transformação de dados através de SQL, construção de relatórios, planilhas e dashboards, gerenciamento de escalonamento e utilização de infraestrutura web na azure, manutenção do sistema e desenvolvimento de ferramentas em .NET. Planejamento de desenvolvimento de sistemas e uso de metodologias ágeis (scrum e Kanban)."
       }
     ]
   }
