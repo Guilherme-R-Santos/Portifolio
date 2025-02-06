@@ -30,7 +30,6 @@ function updateProfileInfo(profileData) {
     linkedin.href = profileData.linkedin;
     linkedin.innerHTML = profileData.linkedinUsername;
     
-
 }
 
 (async () => {
