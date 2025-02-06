@@ -1,76 +1,76 @@
 {
-    "name": "Guilherme",
-    "photo": "https://avatars.githubusercontent.com/u/133920709?s=400&u=d5edc520dcfbd7a98bfe1087c7ecc4bfdb2259be&v=4",
-    "job": "Software Developer",
-    "location": "Rio de Janeiro - RJ",
-    "phone": "(21) 98981-1561",
-    "email": "guilhermersantos99@outlook.com",
-    "github": "https://github.com/Guilherme-R-Santos",
-    "linkedin": "https://www.linkedin.com/in/guilherme-r-santos9",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-javascript.svg?token=GHSAT0AAAAAAC5WFOPVFAXKJMO7QVS2QDTYZ5EAXBQ"
-        },
-        {
-          "name": "Node",
-          "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-node-js.svg?token=GHSAT0AAAAAAC5WFOPUHIMCK3QJK7OHV4S4Z5EAYLQ"
-        },
-        {
-          "name": ".NET",
-          "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/net-framework.svg?token=GHSAT0AAAAAAC5WFOPVYSGJRY6GVGQEXK2KZ5EAZIQ"
-        },
-        {
-          "name": "Postgree",
-          "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/postgresql.svg?token=GHSAT0AAAAAAC5WFOPV5IPHM7OLGGATZHSKZ5EAZ3Q"
-        }
-      ],
-      "softSkills": [
-        "Trabalho em equipe",
-        "Organização",
-        "Comunicação",
-        "Gestão de projetos"
-      ]
-    },
-    "languages": [
-      "Português - Nativo",
-      "Inglês - Avançado",
-      "Espanhol - Básico",
-      "Italiano (iniciante)"
-    ],
-    "portfolio": [
+  "name": "Guilherme",
+  "photo": "https://avatars.githubusercontent.com/u/133920709?s=400&u=d5edc520dcfbd7a98bfe1087c7ecc4bfdb2259be&v=4",
+  "job": "Software Developer",
+  "location": "Rio de Janeiro - RJ",
+  "phone": "(21) 98981-1561",
+  "email": "guilhermersantos99@outlook.com",
+  "github": "https://github.com/Guilherme-R-Santos",
+  "linkedin": "https://www.linkedin.com/in/guilherme-r-santos9",
+  "skills": {
+    "hardSkills": [
       {
-        "name": "MatchGame",
-        "url": "https://github.com/Guilherme-R-Santos/MatchGame",
-        "github": true
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-javascript.svg?token=GHSAT0AAAAAAC5WFOPVFAXKJMO7QVS2QDTYZ5EAXBQ"
       },
       {
-        "name": "Pokedex",
-        "url": "https://github.com/Guilherme-R-Santos/Pokedex",
-        "github": true
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-node-js.svg?token=GHSAT0AAAAAAC5WFOPUHIMCK3QJK7OHV4S4Z5EAYLQ"
       },
       {
-        "name": "PetLife",
-        "url": "https://github.com/Guilherme-R-Santos/PetLife",
-        "github": true
+        "name": ".NET",
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/net-framework.svg?token=GHSAT0AAAAAAC5WFOPVYSGJRY6GVGQEXK2KZ5EAZIQ"
+      },
+      {
+        "name": "Postgree",
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/postgresql.svg?token=GHSAT0AAAAAAC5WFOPV5IPHM7OLGGATZHSKZ5EAZ3Q"
       }
     ],
-    "professionalExperience": [
-      {
-        "name": "Estagiário de desenvolvimento de software | Abra Casa e Abra Cadabra Oficial",
-        "period": "ago de 2024 - O momento",
-        "description": "Desenvolvimento FullStack JavaScript, HTML5, CSS3, Node.js, desenvolvimento de API's, sustentação, implementação de sistemas, atendimento N3, Postgree, MongoDB, Scrum, DevOps"
-      },
-      {
-        "name": "Assistente de sistemas | Instituto Dara",
-        "period": "mar de 2024 - ago 2024",
-        "description": "Análise, gestão e desenvolvimento de sistemas, especificação e levantamento de requisitos, elaboração da documentação do sistema, gestão de usuários, configuração de ambiente microsoft azure para desenvolvimento e sustentação de software, teste de software, gestão de projetos, gestão de TI, gestão de acessos e banco de dados, consulta e extração de dados via SQL, administração de ambiente windows corporate através de windows server e suporte e atendimento à usuários, construção de relatórios, planilhas e dashboards, desenvolvimento de ferramentas em .NET. e uso de metodologias ágeis (scrum e Kanban)."
-      },
-      {
-        "name": "Estágio em análise de sistemas | Instituto Dara",
-        "period": "jul de 2023 - mar de 2024",
-        "description": "Gestão e mapeamento de processos, análise, gestão e desenvolvimento de sistemas, suporte ao usuário, gestão de documentação, mapeamento de sistemas, extração, manipulação, e transformação de dados através de SQL, construção de relatórios, planilhas e dashboards, gerenciamento de escalonamento e utilização de infraestrutura web na azure, manutenção do sistema e desenvolvimento de ferramentas em .NET. Planejamento de desenvolvimento de sistemas e uso de metodologias ágeis (scrum e Kanban)."
-      }
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Comunicação",
+      "Gestão de projetos"
     ]
-  }
+  },
+  "languages": [
+    "Português - Nativo",
+    "Inglês - Avançado",
+    "Espanhol - Básico",
+    "Italiano (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "MatchGame",
+      "url": "https://github.com/Guilherme-R-Santos/MatchGame",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/Guilherme-R-Santos/Pokedex",
+      "github": true
+    },
+    {
+      "name": "PetLife",
+      "url": "https://github.com/Guilherme-R-Santos/PetLife",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário de desenvolvimento de software | Abra Casa e Abra Cadabra Oficial",
+      "period": "ago de 2024 - O momento",
+      "description": "Desenvolvimento FullStack JavaScript, HTML5, CSS3, Node.js, desenvolvimento de API's, sustentação, implementação de sistemas, atendimento N3, Postgree, MongoDB, Scrum, DevOps"
+    },
+    {
+      "name": "Assistente de sistemas | Instituto Dara",
+      "period": "mar de 2024 - ago 2024",
+      "description": "Análise, gestão e desenvolvimento de sistemas, especificação e levantamento de requisitos, elaboração da documentação do sistema, gestão de usuários, configuração de ambiente microsoft azure para desenvolvimento e sustentação de software, teste de software, gestão de projetos, gestão de TI, gestão de acessos e banco de dados, consulta e extração de dados via SQL, administração de ambiente windows corporate através de windows server e suporte e atendimento à usuários, construção de relatórios, planilhas e dashboards, desenvolvimento de ferramentas em .NET. e uso de metodologias ágeis (scrum e Kanban)."
+    },
+    {
+      "name": "Estágio em análise de sistemas | Instituto Dara",
+      "period": "jul de 2023 - mar de 2024",
+      "description": "Gestão e mapeamento de processos, análise, gestão e desenvolvimento de sistemas, suporte ao usuário, gestão de documentação, mapeamento de sistemas, extração, manipulação, e transformação de dados através de SQL, construção de relatórios, planilhas e dashboards, gerenciamento de escalonamento e utilização de infraestrutura web na azure, manutenção do sistema e desenvolvimento de ferramentas em .NET. Planejamento de desenvolvimento de sistemas e uso de metodologias ágeis (scrum e Kanban)."
+    }
+  ]
+}
