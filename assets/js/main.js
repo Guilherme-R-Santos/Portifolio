@@ -19,12 +19,16 @@ function updateProfileInfo(profileData) {
     phone.href = `tel:${profileData.phone}`;
 
     const email = document.getElementById('profile.email');
-    location.innerText = profileData.email;
+    email.innerHTML = profileData.email;
     email.href = `mailto:${profileData.email}`;
 
-    // const github = document.getElementById('profile.github');
+    const github = document.getElementById('profile.github');
+    github.href = profileData.github;
+    github.innerHTML = profileData.githubUsername;
     
-    // const linkedin = document.getElementById('profile.linkedin');
+    const linkedin = document.getElementById('profile.linkedin');
+    linkedin.href = profileData.linkedin;
+    linkedin.innerHTML = profileData.linkedinUsername;
     
 
 }
