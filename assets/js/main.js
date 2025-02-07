@@ -1,5 +1,4 @@
 
-
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo');
     photo.src = profileData.photo;
@@ -15,8 +14,8 @@ function updateProfileInfo(profileData) {
     location.innerText = profileData.location;
 
     const phone = document.getElementById('profile.phone');
-    phone.innerText = profileData.phone;
-    phone.href = `tel:${profileData.phone}`;
+    phone.innerHTML = profileData.phone;
+    phone.href = `https://wa.me/5521989811561`;
 
     const email = document.getElementById('profile.email');
     email.innerHTML = profileData.email;
@@ -25,16 +24,16 @@ function updateProfileInfo(profileData) {
     const github = document.getElementById('profile.github');
     github.href = profileData.github;
     github.innerHTML = profileData.githubUsername;
-    
+
     const linkedin = document.getElementById('profile.linkedin');
     linkedin.href = profileData.linkedin;
     linkedin.innerHTML = profileData.linkedinUsername;
-    
+
 }
 
 function updateSoftSkills(profileData) {
-   const softSkills = document.getElementById('profile.skills.softSkills')
-   softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
+    const softSkills = document.getElementById('profile.skills.softSkills')
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
 }
 
 function updateHardSkills(profileData) {
@@ -44,13 +43,27 @@ function updateHardSkills(profileData) {
 
 function updateLanguages(profileData) {
     const languages = document.getElementById('profile.languages')
-    languages.innerHTML = profileData.languages.map(languages => `<li>${language}</li>`).join('');
+    languages.innerHTML = profileData.languages.map(languages => `<li>${languages}</li>`).join('');
+}
+
+function updatePortifolio(profileData) {
+    const portifolio = document.getElementById('profile.portfolio')
+    portifolio.innerHTML = profileData.portfolio.map(portfolio => {
+        return `
+                <li>
+                    <h3 ${portfolio.github ? 'class="title github"' : 'class="title'}>${portfolio.name}</h3>
+                    <a href="${portfolio.url}" target="_blank">${portfolio.url}</a>
+                </li>
+                `
+    }).join('')
 }
 
 (async () => {
     const profileData = await fetchprofileData();
     updateProfileInfo(profileData);
     updateSoftSkills(profileData);
-    updateHardSkills(profileData)
-    
+    updateHardSkills(profileData);
+    updateLanguages(profileData);
+    updatePortifolio(profileData);
+
 })();
