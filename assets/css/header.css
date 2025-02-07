@@ -47,27 +47,27 @@
 
 
 .info .job::before {
-    background-image: url("assets/img/icons/profile1.svg");
+    background-image: url("../img/icons/profile1.svg");
 }
 
 .info .location::before {
-    background-image: url("assets/img/icons/marcador-de-mapa.svg");
+    background-image: url("../img/icons/marcador-de-mapa.svg");
 }
 
 .info .phone::before {
-    background-image: url("assets/img/icons//whatsapp.svg");
+    background-image: url("../img/icons//whatsapp.svg");
 }
 
 .info .email::before {
-    background-image: url("assets/img/icons/email.svg");
+    background-image: url("../img/icons/email.svg");
 }
 
 .info .github::before {
-    background-image: url("assets/img/icons/github.svg");
+    background-image: url("../img/icons/github.svg");
 }
 
 .info .linkedin::before {
-    background-image: url("assets/img/icons/linkedin.svg");
+    background-image: url("../img/icons/linkedin.svg");
 }
 
 @media only screen and (min-width: 768px) {
