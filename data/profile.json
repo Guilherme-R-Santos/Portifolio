@@ -13,19 +13,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-javascript.svg"
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/mainassets/img/icons/icons8-javascript.svg"
       },
       {
         "name": "Node",
-        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/icons8-node-js.svg"
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/mainassets/img/icons/icons8-node-js.svg"
       },
       {
         "name": ".NET",
-        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/net-framework.svg"
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/mainassets/img/icons/net-framework.svg"
       },
       {
         "name": "Postgree",
-        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/main/assets/img/icons/postgresql.svg"
+        "logo": "https://raw.githubusercontent.com/Guilherme-R-Santos/Portifolio/refs/heads/mainassets/img/icons/postgresql.svg"
       }
     ],
     "softSkills": [
