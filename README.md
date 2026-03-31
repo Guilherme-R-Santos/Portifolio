@@ -1,10 +1,8 @@
 # Portifolio | Guilherme Santos
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-0ea5e9?style=for-the-badge" alt="Status do projeto">
+	<img src="https://img.shields.io/badge/Status-Finalizado-0ea5e9?style=for-the-badge" alt="Status do projeto">
 	<img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-111827?style=for-the-badge" alt="Stack front-end">
-	<img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-16a34a?style=for-the-badge&logo=github" alt="Deploy no GitHub Pages">
-	<img src="https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge" alt="Licença MIT">
 </p>
 
 <p align="center">
