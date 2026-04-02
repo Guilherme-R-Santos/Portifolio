@@ -1,7 +1,6 @@
 # Portifolio | Guilherme Santos
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Status-Finalizado-0ea5e9?style=for-the-badge" alt="Status do projeto">
 	<img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-111827?style=for-the-badge" alt="Stack front-end">
 </p>
 
